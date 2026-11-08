@@ -1,0 +1,4 @@
+Configuration,Silhouette,DBI
+log1p + StandardScaler (manuscript's own pipeline),0.3365174636950013,1.0483361748315712
+"No log1p transform, StandardScaler on raw RFM",0.5942233320872992,0.7103551313989125
+log1p + RobustScaler,0.33105635538542905,1.0525145228484816

@@ -1,0 +1,4 @@
+Dataset,Silhouette_3D,Silhouette_PCA,Silhouette_PCA_Varimax,Improvement_%,Variance_Retained_%,ARI_vs_3D,Rotation_Metrics_Preserved
+UCI,0.3365,0.3754,0.3754,11.6,93.87,0.9345,True
+Online Retail II,0.3477,0.3817,0.3817,9.8,95.1,0.9514,True
+Olist,0.4203,0.4815,0.4815,14.6,72.16,0.9461,True

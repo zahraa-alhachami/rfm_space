@@ -1,0 +1,73 @@
+Dataset,Space,Criterion,Rule,Selected_K,Null_corrected
+Online Retail II,3D,Silhouette,maximum,2,no
+Online Retail II,3D,Davies-Bouldin,minimum,2,no
+Online Retail II,3D,Calinski-Harabasz,maximum,2,no
+Online Retail II,3D,Gap statistic,smallest K passing the 1-SE rule,6,YES
+Online Retail II,3D,Dunn,maximum,4,no
+Online Retail II,3D,Prediction strength,largest K with PS >= 0.80,4,implicitly
+Online Retail II,3D,Bootstrap stability (raw),maximum,2,no
+Online Retail II,3D,Bootstrap stability (null-corrected),maximum,2,YES
+Online Retail II,3D,WCSS elbow,maximum curvature,5,no
+Online Retail II,PCA 2D,Silhouette,maximum,2,no
+Online Retail II,PCA 2D,Davies-Bouldin,minimum,2,no
+Online Retail II,PCA 2D,Calinski-Harabasz,maximum,2,no
+Online Retail II,PCA 2D,Gap statistic,smallest K passing the 1-SE rule,1,YES
+Online Retail II,PCA 2D,Dunn,maximum,5,no
+Online Retail II,PCA 2D,Prediction strength,largest K with PS >= 0.80,4,implicitly
+Online Retail II,PCA 2D,Bootstrap stability (raw),maximum,2,no
+Online Retail II,PCA 2D,Bootstrap stability (null-corrected),maximum,2,YES
+Online Retail II,PCA 2D,WCSS elbow,maximum curvature,5,no
+UCI,3D,Silhouette,maximum,2,no
+UCI,3D,Davies-Bouldin,minimum,2,no
+UCI,3D,Calinski-Harabasz,maximum,2,no
+UCI,3D,Gap statistic,smallest K passing the 1-SE rule,5,YES
+UCI,3D,Dunn,maximum,8,no
+UCI,3D,Prediction strength,largest K with PS >= 0.80,3,implicitly
+UCI,3D,Bootstrap stability (raw),maximum,2,no
+UCI,3D,Bootstrap stability (null-corrected),maximum,2,YES
+UCI,3D,WCSS elbow,maximum curvature,5,no
+UCI,PCA 2D,Silhouette,maximum,2,no
+UCI,PCA 2D,Davies-Bouldin,minimum,2,no
+UCI,PCA 2D,Calinski-Harabasz,maximum,2,no
+UCI,PCA 2D,Gap statistic,smallest K passing the 1-SE rule,1,YES
+UCI,PCA 2D,Dunn,maximum,10,no
+UCI,PCA 2D,Prediction strength,largest K with PS >= 0.80,3,implicitly
+UCI,PCA 2D,Bootstrap stability (raw),maximum,2,no
+UCI,PCA 2D,Bootstrap stability (null-corrected),maximum,2,YES
+UCI,PCA 2D,WCSS elbow,maximum curvature,5,no
+Superstore,3D,Silhouette,maximum,2,no
+Superstore,3D,Davies-Bouldin,minimum,10,no
+Superstore,3D,Calinski-Harabasz,maximum,2,no
+Superstore,3D,Gap statistic,smallest K passing the 1-SE rule,1,YES
+Superstore,3D,Dunn,maximum,6,no
+Superstore,3D,Prediction strength,largest K with PS >= 0.80,2,implicitly
+Superstore,3D,Bootstrap stability (raw),maximum,2,no
+Superstore,3D,Bootstrap stability (null-corrected),maximum,2,YES
+Superstore,3D,WCSS elbow,maximum curvature,5,no
+Superstore,PCA 2D,Silhouette,maximum,2,no
+Superstore,PCA 2D,Davies-Bouldin,minimum,10,no
+Superstore,PCA 2D,Calinski-Harabasz,maximum,2,no
+Superstore,PCA 2D,Gap statistic,smallest K passing the 1-SE rule,1,YES
+Superstore,PCA 2D,Dunn,maximum,6,no
+Superstore,PCA 2D,Prediction strength,largest K with PS >= 0.80,2,implicitly
+Superstore,PCA 2D,Bootstrap stability (raw),maximum,2,no
+Superstore,PCA 2D,Bootstrap stability (null-corrected),maximum,2,YES
+Superstore,PCA 2D,WCSS elbow,maximum curvature,5,no
+Bakery,3D,Silhouette,maximum,2,no
+Bakery,3D,Davies-Bouldin,minimum,4,no
+Bakery,3D,Calinski-Harabasz,maximum,2,no
+Bakery,3D,Gap statistic,smallest K passing the 1-SE rule,4,YES
+Bakery,3D,Dunn,maximum,6,no
+Bakery,3D,Prediction strength,largest K with PS >= 0.80,4,implicitly
+Bakery,3D,Bootstrap stability (raw),maximum,2,no
+Bakery,3D,Bootstrap stability (null-corrected),maximum,2,YES
+Bakery,3D,WCSS elbow,maximum curvature,4,no
+Bakery,PCA 2D,Silhouette,maximum,2,no
+Bakery,PCA 2D,Davies-Bouldin,minimum,4,no
+Bakery,PCA 2D,Calinski-Harabasz,maximum,4,no
+Bakery,PCA 2D,Gap statistic,smallest K passing the 1-SE rule,2,YES
+Bakery,PCA 2D,Dunn,maximum,6,no
+Bakery,PCA 2D,Prediction strength,largest K with PS >= 0.80,6,implicitly
+Bakery,PCA 2D,Bootstrap stability (raw),maximum,2,no
+Bakery,PCA 2D,Bootstrap stability (null-corrected),maximum,2,YES
+Bakery,PCA 2D,WCSS elbow,maximum curvature,4,no

@@ -1,0 +1,4 @@
+Cluster,Recency_mean,Recency_median,Frequency_mean,Frequency_median,Monetary_mean,Monetary_median,Count,Percentage,Composite_Score,Segment,Behavioral_Description
+0,374.37385512073274,393.0,1.5453788509575355,1.0,396.560342214821,308.31500000000005,2402,40.86423953725757,1.6369625111498027,Lost Customers,Inactive customers with distant last purchase and minimal spending
+1,33.436677631578945,16.0,19.23519736842105,13.0,10667.208814144737,4997.53,1216,20.687308608370195,6136.550681591909,Champions,"Recent, frequent, high-spending customers — the most valuable segment"
+2,107.75398230088496,57.0,4.365929203539823,4.0,1526.964782300885,1175.73,2260,38.44845185437224,61.868897960623315,At-Risk Customers,Moderately active customers showing signs of declining engagement

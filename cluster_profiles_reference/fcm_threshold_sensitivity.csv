@@ -1,0 +1,6 @@
+Threshold,Pct_Ambiguous,Most_Ambiguous_Boundary
+0.1,9.06,At-Risk Customers <-> Lost Customers (61.1% of ambiguous customers)
+0.15,13.65,At-Risk Customers <-> Lost Customers (61.1% of ambiguous customers)
+0.2,18.88,At-Risk Customers <-> Lost Customers (60.8% of ambiguous customers)
+0.25,23.44,At-Risk Customers <-> Lost Customers (61.3% of ambiguous customers)
+0.3,28.31,At-Risk Customers <-> Lost Customers (61.5% of ambiguous customers)

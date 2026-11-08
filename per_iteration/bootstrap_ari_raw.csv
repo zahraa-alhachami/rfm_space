@@ -1,0 +1,301 @@
+Dataset,Iteration,ARI
+UCI,1,0.8889
+UCI,2,0.9353
+UCI,3,0.899
+UCI,4,0.9129
+UCI,5,0.9589
+UCI,6,0.8987
+UCI,7,0.9227
+UCI,8,0.942
+UCI,9,0.9574
+UCI,10,0.9515
+UCI,11,0.918
+UCI,12,0.9605
+UCI,13,0.9069
+UCI,14,0.9806
+UCI,15,0.9462
+UCI,16,0.9923
+UCI,17,0.9205
+UCI,18,0.9869
+UCI,19,0.9192
+UCI,20,0.9467
+UCI,21,0.9853
+UCI,22,0.8998
+UCI,23,0.9694
+UCI,24,0.9313
+UCI,25,0.9676
+UCI,26,0.9444
+UCI,27,0.9267
+UCI,28,0.8733
+UCI,29,0.9383
+UCI,30,0.9453
+UCI,31,0.9518
+UCI,32,0.9083
+UCI,33,0.9145
+UCI,34,0.9397
+UCI,35,0.9234
+UCI,36,0.903
+UCI,37,0.9632
+UCI,38,0.9189
+UCI,39,0.9731
+UCI,40,0.9368
+UCI,41,0.9322
+UCI,42,0.9451
+UCI,43,0.9124
+UCI,44,0.9136
+UCI,45,0.7836
+UCI,46,0.9337
+UCI,47,0.9917
+UCI,48,0.9066
+UCI,49,0.906
+UCI,50,0.9556
+UCI,51,0.9092
+UCI,52,0.9889
+UCI,53,0.8273
+UCI,54,0.9095
+UCI,55,0.9753
+UCI,56,0.9388
+UCI,57,0.973
+UCI,58,0.9713
+UCI,59,0.951
+UCI,60,0.9085
+UCI,61,0.9405
+UCI,62,0.8163
+UCI,63,0.8992
+UCI,64,0.9178
+UCI,65,0.9438
+UCI,66,0.9503
+UCI,67,0.8704
+UCI,68,0.9547
+UCI,69,0.9576
+UCI,70,0.926
+UCI,71,0.8497
+UCI,72,0.9404
+UCI,73,0.937
+UCI,74,0.9467
+UCI,75,0.9365
+UCI,76,0.9814
+UCI,77,0.9079
+UCI,78,0.943
+UCI,79,0.9384
+UCI,80,0.9617
+UCI,81,0.9249
+UCI,82,0.9851
+UCI,83,0.9937
+UCI,84,0.9663
+UCI,85,0.9113
+UCI,86,0.9646
+UCI,87,0.9795
+UCI,88,0.9698
+UCI,89,0.9299
+UCI,90,0.9269
+UCI,91,0.9601
+UCI,92,0.8962
+UCI,93,0.9824
+UCI,94,0.9802
+UCI,95,0.9742
+UCI,96,0.8715
+UCI,97,0.9304
+UCI,98,0.913
+UCI,99,0.9162
+UCI,100,0.9149
+Online Retail II,1,0.9133
+Online Retail II,2,0.9401
+Online Retail II,3,0.8953
+Online Retail II,4,0.9178
+Online Retail II,5,0.947
+Online Retail II,6,0.9262
+Online Retail II,7,0.9483
+Online Retail II,8,0.9372
+Online Retail II,9,0.9665
+Online Retail II,10,0.9422
+Online Retail II,11,0.9054
+Online Retail II,12,0.9089
+Online Retail II,13,0.8895
+Online Retail II,14,0.9432
+Online Retail II,15,0.965
+Online Retail II,16,0.9367
+Online Retail II,17,0.9472
+Online Retail II,18,0.9174
+Online Retail II,19,0.9614
+Online Retail II,20,0.8969
+Online Retail II,21,0.9456
+Online Retail II,22,0.9148
+Online Retail II,23,0.8821
+Online Retail II,24,0.9294
+Online Retail II,25,0.9241
+Online Retail II,26,0.9799
+Online Retail II,27,0.971
+Online Retail II,28,0.937
+Online Retail II,29,0.9349
+Online Retail II,30,0.9624
+Online Retail II,31,0.9128
+Online Retail II,32,0.9424
+Online Retail II,33,0.8537
+Online Retail II,34,0.9285
+Online Retail II,35,0.9448
+Online Retail II,36,0.9505
+Online Retail II,37,0.9816
+Online Retail II,38,0.9682
+Online Retail II,39,0.9494
+Online Retail II,40,0.9413
+Online Retail II,41,0.9599
+Online Retail II,42,0.9275
+Online Retail II,43,0.9542
+Online Retail II,44,0.8986
+Online Retail II,45,0.9259
+Online Retail II,46,0.922
+Online Retail II,47,0.9278
+Online Retail II,48,0.9377
+Online Retail II,49,0.9309
+Online Retail II,50,0.922
+Online Retail II,51,0.9209
+Online Retail II,52,0.9918
+Online Retail II,53,0.9153
+Online Retail II,54,0.925
+Online Retail II,55,0.9815
+Online Retail II,56,0.9281
+Online Retail II,57,0.9527
+Online Retail II,58,0.9691
+Online Retail II,59,0.9441
+Online Retail II,60,0.9252
+Online Retail II,61,0.9529
+Online Retail II,62,0.9772
+Online Retail II,63,0.8931
+Online Retail II,64,0.9347
+Online Retail II,65,0.9677
+Online Retail II,66,0.938
+Online Retail II,67,0.9303
+Online Retail II,68,0.985
+Online Retail II,69,0.9549
+Online Retail II,70,0.9775
+Online Retail II,71,0.9276
+Online Retail II,72,0.9375
+Online Retail II,73,0.9106
+Online Retail II,74,0.9425
+Online Retail II,75,0.9743
+Online Retail II,76,0.9122
+Online Retail II,77,0.9061
+Online Retail II,78,0.9
+Online Retail II,79,0.9697
+Online Retail II,80,0.9266
+Online Retail II,81,0.9046
+Online Retail II,82,0.9469
+Online Retail II,83,0.952
+Online Retail II,84,0.8916
+Online Retail II,85,0.8683
+Online Retail II,86,0.9586
+Online Retail II,87,0.9361
+Online Retail II,88,0.8837
+Online Retail II,89,0.9314
+Online Retail II,90,0.9118
+Online Retail II,91,0.9145
+Online Retail II,92,0.8921
+Online Retail II,93,0.9034
+Online Retail II,94,0.9538
+Online Retail II,95,0.9687
+Online Retail II,96,0.9783
+Online Retail II,97,0.9433
+Online Retail II,98,0.9125
+Online Retail II,99,0.8801
+Online Retail II,100,0.8925
+Olist,1,0.9969
+Olist,2,0.9741
+Olist,3,0.9939
+Olist,4,0.9961
+Olist,5,0.9982
+Olist,6,0.976
+Olist,7,0.9951
+Olist,8,0.9938
+Olist,9,0.9954
+Olist,10,0.992
+Olist,11,0.9882
+Olist,12,0.9953
+Olist,13,0.9943
+Olist,14,0.9743
+Olist,15,0.9933
+Olist,16,0.9614
+Olist,17,0.9894
+Olist,18,0.9783
+Olist,19,0.9826
+Olist,20,0.9934
+Olist,21,0.9922
+Olist,22,0.9933
+Olist,23,0.9989
+Olist,24,0.9815
+Olist,25,0.9623
+Olist,26,0.994
+Olist,27,0.9971
+Olist,28,0.9965
+Olist,29,0.9981
+Olist,30,0.9902
+Olist,31,0.9858
+Olist,32,0.9956
+Olist,33,0.9858
+Olist,34,0.9838
+Olist,35,0.9892
+Olist,36,0.9959
+Olist,37,0.9953
+Olist,38,0.9619
+Olist,39,0.9797
+Olist,40,0.9965
+Olist,41,0.9971
+Olist,42,0.9614
+Olist,43,0.9872
+Olist,44,0.9931
+Olist,45,0.9948
+Olist,46,0.9509
+Olist,47,0.9941
+Olist,48,0.9845
+Olist,49,0.9949
+Olist,50,0.9938
+Olist,51,0.994
+Olist,52,0.9855
+Olist,53,0.9937
+Olist,54,0.9961
+Olist,55,0.9899
+Olist,56,0.9938
+Olist,57,0.9777
+Olist,58,0.9892
+Olist,59,0.9902
+Olist,60,0.9922
+Olist,61,0.983
+Olist,62,0.9902
+Olist,63,0.9622
+Olist,64,0.9945
+Olist,65,0.9967
+Olist,66,0.9902
+Olist,67,0.9732
+Olist,68,0.9991
+Olist,69,0.9899
+Olist,70,0.997
+Olist,71,0.9959
+Olist,72,0.9735
+Olist,73,0.9872
+Olist,74,0.9875
+Olist,75,0.9925
+Olist,76,0.9901
+Olist,77,0.9928
+Olist,78,0.9934
+Olist,79,0.9975
+Olist,80,0.975
+Olist,81,0.9899
+Olist,82,0.9938
+Olist,83,0.9972
+Olist,84,0.9861
+Olist,85,0.9956
+Olist,86,0.9846
+Olist,87,0.9954
+Olist,88,0.9802
+Olist,89,0.9953
+Olist,90,0.992
+Olist,91,0.9877
+Olist,92,0.9942
+Olist,93,0.9976
+Olist,94,0.9938
+Olist,95,0.9858
+Olist,96,0.9949
+Olist,97,0.9737
+Olist,98,0.9836
+Olist,99,0.9849
+Olist,100,0.9938

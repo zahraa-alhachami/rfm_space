@@ -1,0 +1,9 @@
+Dataset,Space,Selected_K_at_0.70,Selected_K_at_0.80,Selected_K_at_0.85,Selected_K_at_0.90
+Online Retail II,3D,5,4,3.0,2.0
+Online Retail II,PCA 2D,5,4,2.0,2.0
+UCI,3D,4,3,3.0,2.0
+UCI,PCA 2D,4,3,3.0,2.0
+Superstore,3D,2,2,,
+Superstore,PCA 2D,2,2,,
+Bakery,3D,8,5,4.0,4.0
+Bakery,PCA 2D,8,6,5.0,4.0
