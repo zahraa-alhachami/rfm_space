@@ -1,0 +1,17 @@
+Section,Item,Records,Value_GBP,Present
+cleaning,rows in the workbook,541909.0,,
+cleaning,removed: missing CustomerID,135080.0,,
+cleaning,removed: Quantity <= 0,8905.0,,
+cleaning,removed: UnitPrice <= 0,40.0,,
+cleaning,removed: duplicate rows,5192.0,,
+cleaning,rows after cleaning,392692.0,,
+cleaning,customers after aggregation,4338.0,,
+revenue,total revenue over the clean rows,,8887208.894000001,
+revenue,highest month: 2011-11,,1156205.61,
+calendar,revenue on Monday,,1363604.401,True
+calendar,revenue on Tuesday,,1697733.801,True
+calendar,revenue on Wednesday,,1584283.83,True
+calendar,revenue on Thursday,,1973015.73,True
+calendar,revenue on Friday,,1483080.811,True
+calendar,revenue on Saturday,,,False
+calendar,revenue on Sunday,,785490.321,True

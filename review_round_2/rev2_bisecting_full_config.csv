@@ -1,0 +1,11 @@
+Parameter,Effective_value,Source,Sklearn_version
+n_clusters,3,SET BY THE PROJECT,1.9.0
+init,'random',"library default, not set by the project",1.9.0
+n_init,10,SET BY THE PROJECT,1.9.0
+random_state,42,SET BY THE PROJECT,1.9.0
+max_iter,300,"library default, not set by the project",1.9.0
+verbose,0,"library default, not set by the project",1.9.0
+tol,0.0001,"library default, not set by the project",1.9.0
+copy_x,True,"library default, not set by the project",1.9.0
+algorithm,'lloyd',"library default, not set by the project",1.9.0
+bisecting_strategy,'biggest_inertia',"library default, not set by the project",1.9.0

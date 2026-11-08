@@ -1,0 +1,6 @@
+Quantity,Column,Value
+variance share after raw Min-Max,Recency,0.967722882859437
+variance share after raw Min-Max,Frequency,0.018436331732781405
+variance share after raw Min-Max,Monetary,0.013840785407781792
+"Silhouette of min-max Recency alone, 1-D, K=3",Recency,0.6753563264577285
+ARI between that 1-D partition and P1's 3-D partition,all three,0.9921284432406137

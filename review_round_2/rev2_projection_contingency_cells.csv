@@ -1,0 +1,37 @@
+Alternative,Basis,Cluster_3D,Cluster_alt,Customers,Matched_by_Hungarian
+R-F,Recency+Frequency,0,0,55,False
+R-F,Recency+Frequency,0,1,711,True
+R-F,Recency+Frequency,0,2,3,False
+R-F,Recency+Frequency,1,0,255,False
+R-F,Recency+Frequency,1,1,0,False
+R-F,Recency+Frequency,1,2,1617,True
+R-F,Recency+Frequency,2,0,1351,True
+R-F,Recency+Frequency,2,1,109,False
+R-F,Recency+Frequency,2,2,237,False
+R-M,Recency+Monetary,0,0,0,False
+R-M,Recency+Monetary,0,1,94,False
+R-M,Recency+Monetary,0,2,675,True
+R-M,Recency+Monetary,1,0,1496,True
+R-M,Recency+Monetary,1,1,376,False
+R-M,Recency+Monetary,1,2,0,False
+R-M,Recency+Monetary,2,0,27,False
+R-M,Recency+Monetary,2,1,1416,True
+R-M,Recency+Monetary,2,2,254,False
+F-M,Frequency+Monetary,0,0,94,False
+F-M,Frequency+Monetary,0,1,0,False
+F-M,Frequency+Monetary,0,2,675,True
+F-M,Frequency+Monetary,1,0,280,False
+F-M,Frequency+Monetary,1,1,1592,True
+F-M,Frequency+Monetary,1,2,0,False
+F-M,Frequency+Monetary,2,0,1354,True
+F-M,Frequency+Monetary,2,1,278,False
+F-M,Frequency+Monetary,2,2,65,False
+PCA,PC1+PC2 of the 3D space,0,0,0,False
+PCA,PC1+PC2 of the 3D space,0,1,26,False
+PCA,PC1+PC2 of the 3D space,0,2,743,True
+PCA,PC1+PC2 of the 3D space,1,0,1870,True
+PCA,PC1+PC2 of the 3D space,1,1,2,False
+PCA,PC1+PC2 of the 3D space,1,2,0,False
+PCA,PC1+PC2 of the 3D space,2,0,57,False
+PCA,PC1+PC2 of the 3D space,2,1,1632,True
+PCA,PC1+PC2 of the 3D space,2,2,8,False

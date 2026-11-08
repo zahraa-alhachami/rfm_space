@@ -1,0 +1,3 @@
+Curve,Source,K_min,K_max,K_chord_rule,K_second_difference_rule,WCSS_at_K2,WCSS_at_K3,Note
+"UCI, PCA space (the adopted model)",outputs/results/pca_official\k_selection_table.csv,2,10,5,3,5685.882865216015,4105.304679452647,the two rules disagree on the same curve
+"UCI, 3D space",outputs/results/k_selection_table.csv,2,10,5,3,6483.589425039301,4869.4886285402135,the two rules disagree on the same curve

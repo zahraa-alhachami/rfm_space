@@ -1,0 +1,48 @@
+Group,Criteria,Cells,Selected_K,Count,Pct_of_group
+not null-corrected,"Bootstrap stability (raw), Calinski-Harabasz, Davies-Bouldin, Dunn, Silhouette, WCSS elbow",48,2,27,56.25
+not null-corrected,"Bootstrap stability (raw), Calinski-Harabasz, Davies-Bouldin, Dunn, Silhouette, WCSS elbow",48,4,6,12.5
+not null-corrected,"Bootstrap stability (raw), Calinski-Harabasz, Davies-Bouldin, Dunn, Silhouette, WCSS elbow",48,5,7,14.583333333333334
+not null-corrected,"Bootstrap stability (raw), Calinski-Harabasz, Davies-Bouldin, Dunn, Silhouette, WCSS elbow",48,6,4,8.333333333333334
+not null-corrected,"Bootstrap stability (raw), Calinski-Harabasz, Davies-Bouldin, Dunn, Silhouette, WCSS elbow",48,8,1,2.0833333333333335
+not null-corrected,"Bootstrap stability (raw), Calinski-Harabasz, Davies-Bouldin, Dunn, Silhouette, WCSS elbow",48,10,3,6.25
+implicitly null-corrected,Prediction strength,8,2,2,25.0
+implicitly null-corrected,Prediction strength,8,3,2,25.0
+implicitly null-corrected,Prediction strength,8,4,3,37.5
+implicitly null-corrected,Prediction strength,8,6,1,12.5
+null-corrected,"Bootstrap stability (null-corrected), Gap statistic",16,1,4,25.0
+null-corrected,"Bootstrap stability (null-corrected), Gap statistic",16,2,9,56.25
+null-corrected,"Bootstrap stability (null-corrected), Gap statistic",16,4,1,6.25
+null-corrected,"Bootstrap stability (null-corrected), Gap statistic",16,5,1,6.25
+null-corrected,"Bootstrap stability (null-corrected), Gap statistic",16,6,1,6.25
+all nine,all,72,1,4,5.555555555555555
+all nine,all,72,2,38,52.77777777777778
+all nine,all,72,3,2,2.7777777777777777
+all nine,all,72,4,10,13.88888888888889
+all nine,all,72,5,8,11.11111111111111
+all nine,all,72,6,6,8.333333333333334
+all nine,all,72,8,1,1.3888888888888888
+all nine,all,72,10,3,4.166666666666667
+criterion,Silhouette,8,2,8,100.0
+criterion,Davies-Bouldin,8,2,4,50.0
+criterion,Davies-Bouldin,8,4,2,25.0
+criterion,Davies-Bouldin,8,10,2,25.0
+criterion,Calinski-Harabasz,8,2,7,87.5
+criterion,Calinski-Harabasz,8,4,1,12.5
+criterion,Gap statistic,8,1,4,50.0
+criterion,Gap statistic,8,2,1,12.5
+criterion,Gap statistic,8,4,1,12.5
+criterion,Gap statistic,8,5,1,12.5
+criterion,Gap statistic,8,6,1,12.5
+criterion,Dunn,8,4,1,12.5
+criterion,Dunn,8,5,1,12.5
+criterion,Dunn,8,6,4,50.0
+criterion,Dunn,8,8,1,12.5
+criterion,Dunn,8,10,1,12.5
+criterion,Prediction strength,8,2,2,25.0
+criterion,Prediction strength,8,3,2,25.0
+criterion,Prediction strength,8,4,3,37.5
+criterion,Prediction strength,8,6,1,12.5
+criterion,Bootstrap stability (raw),8,2,8,100.0
+criterion,Bootstrap stability (null-corrected),8,2,8,100.0
+criterion,WCSS elbow,8,4,2,25.0
+criterion,WCSS elbow,8,5,6,75.0
